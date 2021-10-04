@@ -20,6 +20,6 @@ int main()
 		number /= 2;
 	}
 	cout << result;
-
+        system ("pause");
 	return 0;
 }
