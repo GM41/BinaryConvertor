@@ -10,6 +10,7 @@ int main()
 {
 	int number, digit = 0;
 	string result = "";
+	cout << "Hi!" << endl;
 	cout << "Input number please=";
 	cin >> number;
 	while (number > 0)
